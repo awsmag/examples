@@ -1,2 +1,2 @@
 # examples
-examples used various blog post
+examples used in various blog post on https://awsmag.com
